@@ -23,7 +23,7 @@
 #include "awtk_app.hpp"
 
 BEGIN_C_DECLS
-#include "../res/assets_all.inc"
+#include "../res/assets.inc"
 END_C_DECLS
 
 #ifndef APP_DEFAULT_FONT

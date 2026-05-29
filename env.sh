@@ -1,4 +1,4 @@
-export awtk_DIR=~/work/awtk-root/awtk
+export awtk_DIR=../awtk
 export awtk_modbus_DIR=$awtk_DIR/../awtk-modbus
 export awtk_mvvm_DIR=$awtk_DIR/../awtk-mvvm
 
